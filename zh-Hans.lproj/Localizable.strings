@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  RubikCubePaint
+
+  Created by Pedro Luis Cabrera Acosta on 9/22/18.
+  Copyright © 2018 Pedro Luis Cabrera Acosta. All rights reserved.
+*/
+"Level" = "水平";
+"Score" = "得分了";
+"Alfa-Male" = "阿尔法男性";
+"Brave" = "勇敢";
+"Legend" = "传说";
+"Congratulations" = "祝贺";
+"You finished the level" = "你完成了关卡";
+"Go to next level" = "转到下一个级别";
+"Ok" = "Ok";
+"Trys" = "改掉";
+"Difficulty Level" = "难度级别";
+"Go to level" = "去水平";
+"Never solved" = "没有解决";
+"times solved" = "时代解决了";
+"time solved" = "时间解决了";
+"Not connected to the internet" = "没有连接到互联网";
+"Connecting" = "连";
+"People have solved it" = "人们已经解决了它";
+"Currently Solving" = "目前正在解决";
+"Finished by you in" = "你完成了";
+"No one has ever solved it" = "从来没有人解决过它";
+"You have not solved it yet" = "你还没有解决它";
+"World Records" = "世界纪录";
+"Play" = "玩";
+"PLAY" = "玩";
+"YES" = "是";
+"No" = "没有";
+"NO" = "没有";
+"The traditional cube is not enough of a challenge for you? Let's make things more interesting by adding extra difficulty."="传统的立方体对你来说还不够挑战吗？ 让我们通过增加额外的难度让事情变得更有趣。";
+"do you accept the challenge?" = "你接受挑战吗";
+"couldn't load data" = "无法加载数据";
+"Your goal is to solve the cube, there are missing pieces, you can paint them, but the number of attempts you have to paint is limited to the number of missing pieces. Do not fail any attempt." = "你的目标是解决立方体，有缺失的部分，你可以绘制它们，但你必须绘制的尝试次数限制为缺失部分的数量。 不要失败任何尝试。";
+"Your goal is to solve the cube, there are missing pieces, you can paint them, but the number of attempts you have to paint decreases by 1 each minute. Hurry or you will run out of attempts." = "你的目标是解决立方体，有缺失的部分，你可以绘制它们，但你必须绘制的尝试次数每分钟减少1。 快点，否则你将失去尝试。";
+"Your goal is to solve the cube, there are missing pieces, you can not paint them, which increases the difficulty with each finished level. Good luck Legend." = "你的目标是解决立方体，有缺失的部分，你不能绘制它们，这增加了每个完成级别的难度。 祝你好运传奇。";
+

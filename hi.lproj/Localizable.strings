@@ -1,0 +1,42 @@
+/* 
+  Localizable.strings
+  RubikCubePaint
+
+  Created by Pedro Luis Cabrera Acosta on 9/22/18.
+  Copyright © 2018 Pedro Luis Cabrera Acosta. All rights reserved.
+*/
+"Level" = "स्तर";
+"Score" = "स्कोर";
+"Alfa-Male" = "अल्फा पुरुष";
+"Brave" = "बहादुर";
+"Legend" = "किंवदंती";
+"Congratulations" = "बधाई हो";
+"You finished the level" = "आपने स्तर पूरा कर लिया";
+"Go to next level" = "अगले स्तर पर जाएं";
+"Ok" = "Ok";
+"Trys" = "वास्ता";
+"Difficulty Level" = "कठिनाई स्तर";
+"Go to next level" = "अगले स्तर पर जाएं";
+"Go to level" = "स्तर पर जाएं";
+"Never solved" = "कभी हल नहीं हुआ";
+"times solved" = "कई बार हल किया गया";
+"time solved" = "समय हल हो गया";
+"Not connected to the internet" = "इंटरनेट से जुड़ा नहीं है";
+"Connecting" = "कनेक्ट";
+"People have solved it" = "लोगों ने इसका हल निकाल लिया है";
+"Currently Solving" = "वर्तमान में हल";
+"Finished by you in" = "आपके द्वारा में समाप्त हो गया";
+"No one has ever solved it" = "इसका हल अभी तक किसी ने नहीं निकाला है";
+"You have not solved it yet" = "आपने अभी तक इसे हल नहीं किया है";
+"World Records" = "विश्व रिकॉर्ड";
+"Play" = "प्ले";
+"PLAY" = "प्ले";
+"YES" = "हाँ";
+"No" = "नहीं";
+"NO" = "नहीं";
+"The traditional cube is not enough of a challenge for you? Let's make things more interesting by adding extra difficulty." = "पारंपरिक घन आपके लिए एक चुनौती के रूप में पर्याप्त नहीं है? अतिरिक्त कठिनाई जोड़कर चीजों को और अधिक रोचक बनाते हैं।";
+"do you accept the challenge?" = "क्या आप चुनौती स्वीकार करते हैं?";
+"couldn't load data" = "डेटा लोड नहीं कर सका";
+"Your goal is to solve the cube, there are missing pieces, you can paint them, but the number of attempts you have to paint is limited to the number of missing pieces. Do not fail any attempt." = "आपका लक्ष्य घन को हल करना है, लापता टुकड़े हैं, आप उन्हें पेंट कर सकते हैं, लेकिन आपको जितने प्रयास करने हैं, वे लापता टुकड़ों की संख्या तक सीमित हैं। किसी भी प्रयास को विफल न करें।";
+"Your goal is to solve the cube, there are missing pieces, you can paint them, but the number of attempts you have to paint decreases by 1 each minute. Hurry or you will run out of attempts." = "आपका लक्ष्य घन को हल करना है, लापता टुकड़े हैं, आप उन्हें पेंट कर सकते हैं, लेकिन आपको जितने प्रयास करने हैं, प्रत्येक मिनट में 1 घट जाती है। जल्दी करो या आप प्रयासों से बाहर चला जाएगा।";
+"Your goal is to solve the cube, there are missing pieces, you can not paint them, which increases the difficulty with each finished level. Good luck Legend." = "आपका लक्ष्य घन को हल करना है, लापता टुकड़े हैं, आप उन्हें पेंट नहीं कर सकते हैं, जिससे प्रत्येक समाप्त स्तर के साथ कठिनाई बढ़ जाती है। गुड लक लेजेंड।";

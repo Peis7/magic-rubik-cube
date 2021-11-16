@@ -1,0 +1,40 @@
+/* 
+  Localizable.strings
+  RubikCubePaint
+
+  Created by Pedro Luis Cabrera Acosta on 9/22/18.
+  Copyright © 2018 Pedro Luis Cabrera Acosta. All rights reserved.
+*/
+"Level" = "Nivel";
+"Score" = "Puntuación";
+"Alfa-Male" = "Macho-Alfa";
+"Brave" = "Valiente";
+"Legend" = "Leyenda";
+"Congratulations" = "Felicidades";
+"You finished the level" = "Terminaste el nivel";
+"Go to next level" = "Ir al siguiente nivel";
+"Ok" = "Ok";
+"Trys" = "Intentos";
+"Difficulty Level" = "Nivel de dificultad";
+"Go to next level" = "Ir al siguiente nivel";
+"Go to level" = "Ir al nivel";
+"Never solved" = "Nunca resuelto";
+"times solved" = "veces resuelto";
+"time solved" = "vez resuelto";
+"Not connected to the internet" = "No conectado a internet";
+"Connecting" = "conectando";
+"People have solved it" = "Personas lo han resuelto";
+"Currently Solving" = "Actualmente resolviendo";
+"Finished by you in" = "Terminado por ti en";
+"No one has ever solved it" = "Nadie lo ha resuelto nunca";
+"You have not solved it yet" = "Aún no lo has resuelto";
+"World Records" = "Registros mundiales";
+"Play" = "Jugar";
+"PLAY" = "JUGAR";
+"YES" = "Sí";
+"The traditional cube is not enough of a challenge for you? Let's make things more interesting by adding extra difficulty."="¿El cubo tradicional no es suficiente desafío para ti? Hagamos las cosas más interesantes agregando dificultad extra.";
+"do you accept the challenge?" = "¿aceptas el reto?";
+"couldn't load data" = "problema cargando los datos";
+"Your goal is to solve the cube, there are missing pieces, you can paint them, but the number of attempts you have to paint is limited to the number of missing pieces. Do not fail any attempt." = "Tu objetivo es resolver el cubo, hay piezas faltantes, puedes pintarlas, pero el número de intentos que tienes para pintar está limitado a la cantidad de piezas faltantes. No dejes pasar ningún intento.";
+"Your goal is to solve the cube, there are missing pieces, you can paint them, but the number of attempts you have to paint decreases by 1 each minute. Hurry or you will run out of attempts." = "Tu objetivo es resolver el cubo, hay piezas faltantes, puedes pintarlas, pero la cantidad de intentos que tienes para pintar disminuye en 1 minuto por minuto. Date prisa o te quedarás sin intentos.";
+"Your goal is to solve the cube, there are missing pieces, you can not paint them, which increases the difficulty with each finished level. Good luck Legend." = "Tu objetivo es resolver el cubo, hay piezas faltantes, no puedes pintarlas, lo que aumenta la dificultad con cada nivel terminado. Buena suerte leyenda.";
